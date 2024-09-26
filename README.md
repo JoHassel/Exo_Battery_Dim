@@ -14,5 +14,8 @@ The purpose of the Matlab simulation was to calculate the capacity and power of 
 7.	Calculate electrical power for each mode
 8.	Outputs: Average power based on load collective, max. current based on peak power, capacity based on average power and running time
 
+9. Average current for each actuator
+10. Peak power reduction through supercaps 
+
 ## Contact 
 Reach out to hassel@campus.tu-berlin.de 

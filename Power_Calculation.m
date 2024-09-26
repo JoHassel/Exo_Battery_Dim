@@ -112,15 +112,15 @@ p_mech_stairs_down_a = readmatrix("Stairs_down\P_mech_Ankle_marked.txt");
 p_mech_stairs_down_k = readmatrix("Stairs_down\P_mech_Knee_marked.txt");
 p_mech_stairs_down_h = readmatrix("Stairs_down\P_mech_Hip_marked.txt");
 
-% Import Mechanical Power Sitting down [W/kg]
-p_mech_sitting_down_a = readmatrix("Sitting_down\Ankle_Power.txt");
-p_mech_sitting_down_k = readmatrix("Sitting_down\Knee_Power.txt");
-p_mech_sitting_down_h = readmatrix("Sitting_down\Hip_Power.txt");
+% Import Mechanical Power Stand-to-sit [W/kg]
+p_mech_sitting_down_a = readmatrix("Stand_to_sit\Ankle_Power.txt");
+p_mech_sitting_down_k = readmatrix("Stand_to_sit\Knee_Power.txt");
+p_mech_sitting_down_h = readmatrix("Stand_to_sit\Hip_Power.txt");
 
-% Import Mechanical Power Standing up normalized to W/kg (89.15kg = weight person from paper)
-p_mech_standing_up_a = readmatrix("Standing_up\Ankle_Power.txt")/89.15;
-p_mech_standing_up_k = readmatrix("Standing_up\Knee_Power.txt")/89.15;
-p_mech_standing_up_h = readmatrix("Standing_up\Hip_Power.txt")/89.15;
+% Import Mechanical Power Sit-to-stand normalized to W/kg (89.15kg = weight person from paper)
+p_mech_standing_up_a = readmatrix("Sit_to_stand\Ankle_Power.txt")/89.15;
+p_mech_standing_up_k = readmatrix("Sit_to_stand\Knee_Power.txt")/89.15;
+p_mech_standing_up_h = readmatrix("Sit_to_stand\Hip_Power.txt")/89.15;
 
 %% Absolute Values + add second leg 
 % Walking
