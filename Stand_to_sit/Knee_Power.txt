@@ -1,4 +1,3 @@
-#DataThief C:\Users\johan\Documents\Uni\Master\RISE II\Battery_Capacity_Calculation\Sitting_down\Power_marked.png Monday 11-Dec-2023 10:55:25 PM
 0.10442, 3.1629e-3
 1.21824, -3.18383e-3
 2.19283, -9.52837e-3

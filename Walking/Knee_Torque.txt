@@ -1,4 +1,3 @@
-#DataThief C:\Users\johan\Documents\Uni\Master\RISE II\Battery_Capacity_Calculation\Walking Speed 1_1 m_pro_s\Knee_Torque.png Sunday 3-Dec-2023 12:41:07 PM
 1.10232, -0.31676
 2.11984, -0.3812
 3.13737, -0.43704

@@ -1,4 +1,3 @@
-#DataThief C:\Users\johan\Documents\Uni\Master\RISE II\Battery_Capacity_Calculation\Stairs_down\P_mech_Hip_marked.png Monday 11-Dec-2023 2:48:19 PM
 1.02876, -0.01323
 2.09071, 0.02779
 3.01991, 0.06886
