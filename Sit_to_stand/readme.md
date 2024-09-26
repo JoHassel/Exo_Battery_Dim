@@ -1,4 +1,4 @@
-# Torque and angle velocity of a walking trajectory
+# Mechanical power of a sit-to-stand trajectory
 
 ## Data
 * 100 data points per trajectory
