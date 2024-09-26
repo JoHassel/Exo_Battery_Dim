@@ -1,4 +1,4 @@
-# Mechanical power of a walking trajectory
+# Mechanical power of a stairs-down trajectory
 
 ## Data
 * 100 data points per trajectory
