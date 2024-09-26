@@ -1,4 +1,4 @@
-# Mechanical power of a sit-to-stand trajectory
+# Mechanical power of a stand-to-sit trajectory
 
 ## Data
 * 100 data points per trajectory
