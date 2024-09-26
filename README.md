@@ -6,7 +6,7 @@ The purpose of the Matlab simulation was to calculate the capacity and power of 
 
 ## Structure
 1.	Read in parameters
-2.	Extract trajectory data from scientific literature with DataThief
+2.	Extract trajectory data from scientific literature with [DataThief](https://www.datathief.org/)
 3.	Read in trajectories (either rpm and torque trajectories or mechanical power torque)
 4.	(calculate mechanical power in W/kg)
 5.	Get absolute values of mechanical power and add second leg (50% offset for walking, stairs-up and stairs-down)
